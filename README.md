@@ -1,3 +1,5 @@
+![hello-mornrain](assets/preview.png)
+
 # Hello MornRain
 
 > The smallest useful WordPress plugin: one shortcode, no database writes, no surprises.
