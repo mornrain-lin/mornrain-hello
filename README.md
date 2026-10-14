@@ -1,4 +1,4 @@
-![hello-mornrain](assets/preview.png)
+![hello-mornrain](assets/admin.png)
 
 # Hello MornRain
 
@@ -19,6 +19,10 @@ the site owner explicitly configures.
 | Class prefix | `Hello_Mornrain` |
 
 ---
+
+## 界面预览
+
+![插件激活与简介页](assets/admin.png)
 
 ## Table of contents
 
